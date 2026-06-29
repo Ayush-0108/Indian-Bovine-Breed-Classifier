@@ -11,6 +11,7 @@ The model is trained on the 'Indian Bovine Breeds' dataset, which includes 41 di
 - **Framework:** TensorFlow / Keras
 - **Architecture:** Convolutional Neural Network (CNN)
 - **Optimization:** Adam optimizer with Sparse Categorical Crossentropy loss
+- **Data Augmentation**
 - **Regularization:** Batch Normalization and Dropout to reduce overfitting
 - **Interface:** Gradio for real-time web-based predictions
 
